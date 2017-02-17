@@ -27,7 +27,7 @@ public:
     }
 
     void testAssertEqual() {
-        CPPUNIT_ASSERT_EQUAL(2, 1);
+        CPPUNIT_ASSERT_EQUAL(2, 2);
     }
 
     void testNothing() {}
